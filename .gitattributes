@@ -17,3 +17,5 @@
 *.RTF	 diff=astextplain
 
 css/* linguist-vendored
+example-exceeds.html linguist-vendored
+example-meets.html linguist-vendored
